@@ -1,0 +1,1 @@
+Employee_name=amr, Employee_id=2, Employee_Password=123, Employee_phone_number=059, Employee_Email=mahmoud, Employee_Address=gaza, Employee_basicSalary=500.0, liveExpensive=0.0
